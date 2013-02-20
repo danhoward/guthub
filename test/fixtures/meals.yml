@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  name: MyString
+  course: MyString
+  dishes: MyString
+  flavor: false
+
+two:
+  name: MyString
+  course: MyString
+  dishes: MyString
+  flavor: false
